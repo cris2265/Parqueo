@@ -10,7 +10,7 @@ let header = `
 <p class ="titulo">PARQUE "EL COLEGIO"</p>
 <nav>
     <ul class = "listado">
-    <li><img src="../img/bus.png"></li>
+    <li><img src="./img/bus.png"></li>
     <li><img src="../img/transport.png"></li>
     <li><img src="../img/car.png"></li>
     <li><img src="../img/motorbike.png"></li>
