@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1rem 0rem 1rem;
+}
+.img {
+    width: 5rem;
+    height: 5rem;
+}
+.listado {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    list-style-type: none;
+}
+.listado img {
+    width: 5rem;
+    height: 5rem;
+}
+.titulo {
+    font-size: 1.5rem;
+    font-weight: 525;
+    padding-left: 5rem;
+}
