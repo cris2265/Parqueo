@@ -6,7 +6,7 @@ let header_del_dom = document.querySelector(".header");
 //almacenar en huna variable el contenido a agregar
 
 let header = `
-<img src="../img/parqueo.png" class ="img">
+<img src="./img/parqueo.png" class ="img">
 <p class ="titulo">PARQUE "EL COLEGIO"</p>
 <nav>
     <ul class = "listado">
