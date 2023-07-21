@@ -7,7 +7,7 @@ let header_del_dom = document.querySelector(".header");
 
 let header = `
 <img src="./img/parqueo.png" class ="img">
-<p class ="titulo">PARQUE "EL COLEGIO"</p>
+<p class ="titulo">PARQUEO "EL COLEGIO"</p>
 <nav>
     <ul class = "listado">
     <li><img src="./img/bus.png"></li>

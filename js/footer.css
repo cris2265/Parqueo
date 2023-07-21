@@ -4,13 +4,14 @@
     align-items: center;
     border-top: 1px solid gray;
     padding: 1rem;
+    background-color: #1b31497f;
 }
 .nombre {
-    font-size: 1rem;
+    font-size: 3rem;
     font-weight: 500;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .food img {
-    width: 2rem;
-    height: 2rem;
+    width: 4rem;
+    height: 4rem;
 }

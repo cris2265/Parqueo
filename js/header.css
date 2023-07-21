@@ -1,11 +1,13 @@
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 0rem 1rem 0rem 1rem;
+    align-items: center;
+    padding: 1rem 1rem 0rem 1rem;
+    background-color: #1b31497f;
 }
 .img {
-    width: 5rem;
-    height: 5rem;
+    width: 6rem;
+    height: 6rem;
 }
 .listado {
     display: flex;
@@ -18,7 +20,8 @@
     height: 5rem;
 }
 .titulo {
-    font-size: 1.5rem;
+    font-size: 4rem;
     font-weight: 525;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-left: 5rem;
 }
