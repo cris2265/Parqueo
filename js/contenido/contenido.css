@@ -8,6 +8,8 @@
     display: flex;
     justify-content: space-between;
 }
+
+
 .cajaimg {
     width: 40%;
     height: 90%;
@@ -25,6 +27,7 @@
 }
 .cajaimg h3 {
     font-size: 3rem;
+    text-align: center;
 }
 .cosasxd {
     width: 40%;
@@ -34,8 +37,7 @@
 }
 
 .entro {
-    width: 40rem;
-    height: 40rem;
+
     border-radius: 2rem;
     padding: 5rem;
     background-color: #1b3149;
@@ -83,3 +85,16 @@
     font-weight: 600;
     color: #d1d1d1;
 }
+@media screen and (max-width: 720px) {
+    .contenido {
+        background-color: #089e00;
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+        width: 100%;
+    }
+    .cajaimg span {
+        font-size: 15rem;
+    }
+    
+  } 

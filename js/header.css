@@ -25,3 +25,11 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-left: 5rem;
 }
+@media  screen and (max-width: 720px) {
+    .header {
+        flex-direction: column;
+        gap: 2rem;
+        width: 100%;
+    }
+    
+}
